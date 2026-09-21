@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan to bootstrap the Unicorn OS MVP (Next.js 14, Tailwind CSS, Lucide icons, interactive mock state with Supabase-ready schema, QR attendance scanner, and dynamic certificate generator).",
+  "updatedAt": "2026-09-21T09:04:45.146666700Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
